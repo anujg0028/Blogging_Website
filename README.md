@@ -5,4 +5,4 @@ I have used role base authorization so only the admin can remove any category an
 
 I have also implemented Swagger API for documenting the APIs
 
-Technologies Used: Java, Spring Boot, JPA, Hibernate, Spring Security, JWT Authorization, MySQL, Pagination, Swagger UI
+Technologies Used: React.js, Java, Spring Boot, JPA, Hibernate, Spring Security, JWT Authorization, MySQL, Pagination, Swagger UI
